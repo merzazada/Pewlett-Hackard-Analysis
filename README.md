@@ -7,3 +7,8 @@ The results for the retiring employees per title is as follow:
 > <img width="467" alt="retiring_results" src="https://user-images.githubusercontent.com/97934695/159842811-5084761c-299f-4c9d-9962-38da7b002b03.png">
 
 ## Summary
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.<br>
+90,398 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
+
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?<br>
+No, we have 1,940 employees who are eligible to participate in a mentorship program.
